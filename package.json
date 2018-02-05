@@ -2,7 +2,9 @@
   "requires": true,
   "lockfileVersion": 1,
   "dependencies": {
+    "bootstrap": "^4.0.0",
     "jquery": "^3.3.1",
-    "pepper": "^0.1.0"
+    "pepper": "^0.1.0",
+    "popper": "^1.0.1"
   }
 }
